@@ -20,7 +20,7 @@ To create Student Enrollment System software that will meet the needs of the app
 
 ## Activity Diagram
 
-<img width="987" height="970" alt="image" src="https://github.com/user-attachments/assets/61e1a400-81de-4873-b7e1-d06bfad21b99" />
+<img width="1080" height="964" alt="image" src="https://github.com/user-attachments/assets/f19c4d92-07d6-4b0c-b5e5-6ec933ac4a1b" />
 
 
 ## Package Diagram
