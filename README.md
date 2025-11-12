@@ -12,19 +12,19 @@ To create Student Enrollment System software that will meet the needs of the app
 
 ## Usecase Diagram
 
-<img width="992" height="860" alt="image" src="https://github.com/user-attachments/assets/1468ecfe-2aa3-4d9b-8de6-43c86164190d" />
+<img width="1114" height="843" alt="image" src="https://github.com/user-attachments/assets/ea553dc1-5816-4f27-8483-fae5aea0c4f6" />
 
 ## Class Diagram
 
-<img width="991" height="943" alt="image" src="https://github.com/user-attachments/assets/138d3e87-44fd-47f1-b2a0-362ba94b29c4" />
+<img width="1123" height="666" alt="image" src="https://github.com/user-attachments/assets/1c997680-e87f-4690-9458-694e50deef8f" />
 
 ## Activity Diagram
 
-<img width="993" height="923" alt="image" src="https://github.com/user-attachments/assets/7b944d2b-81d4-4a3b-a329-85f38dd145a4" />
+<img width="987" height="970" alt="image" src="https://github.com/user-attachments/assets/61e1a400-81de-4873-b7e1-d06bfad21b99" />
+
 
 ## Package Diagram
-
-<img width="998" height="779" alt="image" src="https://github.com/user-attachments/assets/c1b1e8b4-48b0-4c17-974c-853b59d7b7f7" />
+<img width="1170" height="633" alt="image" src="https://github.com/user-attachments/assets/0ea85f11-a46a-45cf-bba5-d13079ee2986" />
 
 ## Sequence Diagram
 
