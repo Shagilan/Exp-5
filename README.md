@@ -32,7 +32,7 @@ To create Student Enrollment System software that will meet the needs of the app
 
 ## Communication Diagram
 
-<img width="988" height="700" alt="image" src="https://github.com/user-attachments/assets/253ebd0e-e501-4504-8cdf-24da0b36ef9e" />
+<img width="1029" height="704" alt="image" src="https://github.com/user-attachments/assets/d07fd20b-63db-4fd4-ba2b-496397f18fe2" />
 
 
  
